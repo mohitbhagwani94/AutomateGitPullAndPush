@@ -14,7 +14,7 @@ To run the executable file type the below command
 ./script.sh
 ```
 
-It ask for user name and password. Enter your usename and password.
+Enter your usename and password.
 
 Just you have to enter your password once, After that it work automatically.
 
@@ -29,5 +29,5 @@ git config --system --unset credential.helper
 
 **Note**
 It you don't want to commit script.sh file. We have two solution
-1. Add script.sh in .gitignore file.
-2. Add this line ```git reset script.py``` after line 8 in script.py file.
+>1. Add script.sh in .gitignore file.
+>2. Add this line ```git reset script.py``` after line 8 in script.py file.
