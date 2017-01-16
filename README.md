@@ -36,4 +36,4 @@ It you don't want to commit script.sh file. We have two solution
 >1. Add script.sh in .gitignore file.
 >2. Add this line ```git reset script.sh``` after line 8 in script.sh file.
 
-!!!Happy Coding!!!
+!!! Happy Coding !!!
