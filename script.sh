@@ -6,7 +6,6 @@ echo "============End of Pull command============"
 
 echo "============Start of Commit command============"
 git add .
-#git reset script.sh 
 git commit -m "Enter your Message"
 echo "============End of Commit command============"
 
