@@ -33,7 +33,7 @@ git config --system --unset credential.helper
 ```
 
 **Note**
-It you don't want to commit script.sh file. We have two solution
+If you don't want to commit script.sh file. We have two solution
 >1. Add script.sh in .gitignore file.
 >2. Uncomment ```git reset script.sh``` this line in script.sh file.
 
