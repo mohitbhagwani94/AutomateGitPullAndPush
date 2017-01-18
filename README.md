@@ -13,13 +13,12 @@ To run the executable file type the below command
 ```
 ./script.sh
 ```
-
 Will ask for your commit message. 
 ``` 
-Enter you commit message : checking
+Enter you commit message : Message
 ```
 
-Enter your usename and password.
+Enter your username and password.
 
 Just you have to enter your password once, Afterwards you have to just run the script no need to type username and password again.
 
