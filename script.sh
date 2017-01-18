@@ -9,7 +9,6 @@ git add .
 echo -n "Enter you commit message : ";
 read MSG
 git commit -m "$MSG"
-
 echo "============End of Commit command============"
 
 
