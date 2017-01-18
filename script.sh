@@ -6,7 +6,9 @@ echo "============End of Pull command============"
 
 echo "============Start of Commit command============"
 git add .
-git commit -m "Enter your Message"
+echo -n "Enter you commit message : ";
+read MSG
+git commit -m "$MSG"
 echo "============End of Commit command============"
 
 
